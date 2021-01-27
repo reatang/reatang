@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**reatang/reatang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 软件工程
+ - 程序设计
+ - 数据库设计
+ - 系统架构设计与优化
+ - 系统集成/系统标准化
+ - 敏捷开发/TDD开发
+ - 项目周期管理
 
-Here are some ideas to get you started:
+### PHP
+ - WordPress
+ - Drupal
+ - Laravel
+ - Symfony
+ - Composer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Java
+ - Spring
+ - Spring Boot
+ - Netty
+ - Tomcat 
+
+### Game
+  - APEX
+  - 原神
+  - 明日方舟
