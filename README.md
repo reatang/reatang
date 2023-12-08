@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  - 软件工程: 程序设计/数据库设计/系统架构设计与优化/系统集成/系统标准化/敏捷开发/TDD开发/项目周期管理
- - 平台工程：代码管理，云与微服务，APM，CI/CD
+ - 平台工程：代码管理分析/云与微服务/API网关/APM/CI/CD
  - PHP: WordPress/Drupal/Laravel/Symfony/Composer
  - Java: Spring/Spring Boot/Netty/Tomcat 
  - Golang：
