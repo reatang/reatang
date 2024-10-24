@@ -6,9 +6,9 @@
  - Java: Spring/Spring Boot/Netty/Tomcat 
  - Golang:
     - 工程落地: go-zero/gin/hertz/kitex
-    - 生态研究: gRPC生态，编写符合社区风格的软件和库
+    - 生态研究: gRPC生态，opentelemetry生态，编写符合社区风格的软件和库
     - 研发: 基础工具，技术架构，配置管理
- - Game: APEX/原神/明日方舟/崩坏-星穹铁道
+ - Game: 电子YW中 ~~APEX~~/~~原神~~/~~明日方舟~~/~~崩坏-星穹铁道~~
  
  
 ~~代码洁癖患者~~
