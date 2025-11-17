@@ -14,7 +14,7 @@
     - 研发: 基础工具，技术架构，配置管理
  - Python: AIAgent研发/Web开发/效率工具开发
  - Rust: 新技能施工中
- - PHP: WordPress/Drupal/Laravel/Symfony/Composer
+ - PHP: Laravel/Symfony/Composer/WordPress/Drupal
  - Java: Spring/Spring Boot/Netty/Tomcat 
  - Game: 电子YW中 ~~APEX~~/~~原神~~/~~明日方舟~~/~~崩坏-星穹铁道~~
  
